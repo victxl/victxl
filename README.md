@@ -63,7 +63,7 @@
 ###
 
 
-<img src="https://raw.githubusercontent.com/victxl/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
