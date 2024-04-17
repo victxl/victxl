@@ -1,8 +1,7 @@
 <h3 align="center">Hello World!!</h3>
 
 ###
-
-<h6 align="center">👋 Hey there! I'm Victor, a passionate systems developer based in Brasília. With a background in photography and cinema, coupled with technical skills in system development, I bring a unique perspective to my projects. Currently pursuing a degree in Information Systems, I'm enthusiastic about exploring the intersection of technology and visual creativity.<br><br>🌟 Interests: I'm deeply interested in technology, photography, cinema, and web development. I love diving into new techniques in photography and crafting engaging visual projects.<br><br>🚀 Goals: My goals revolve around advancing my career in system development, refining my skills in photography and cinema, and contributing to innovative and creative projects. I'm committed to continuous learning, hard work, and seizing professional growth opportunities.</h6>
+<h6 align="center">👋 Hello!  I'm Victor, a Moranso systems developer in Brasília.  My journey began with a background in photography and film, but over time, I developed a passion for technology and creating innovative solutions.<br><br>🌟 Interests: In addition to systems development, I have a deep interest in exploring the intersection between technology and visual creativity.  I am constantly delving into new photography and filmmaking techniques, seeking to create engaging visual projects that complement my journey in the world of technology.<br><br>🚀 Goals: My main focus is to advance my career as a systems developer, while continuing to refine my photography and filmmaking skills.  I am committed to contributing to innovative and creative projects, making the most of the professional growth opportunities that come my way.</h6>
 
 ###
 
